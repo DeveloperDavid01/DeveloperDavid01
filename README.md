@@ -1,7 +1,7 @@
 # Hi there 👋
 
 :computer:  **Tecnologo de Software**
-:pencil: **Actualmente; Realizando curso de Git y GitHub**
+:pencil: **Actualmente; Realizando curso de Fundamentos PHP**
 
 ## Vias de contacto
 
